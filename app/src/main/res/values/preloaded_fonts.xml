@@ -3,5 +3,6 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/</item>
         <item>@font/actor</item>
+        <item>@font/advent_pro_medium</item>
     </array>
 </resources>
