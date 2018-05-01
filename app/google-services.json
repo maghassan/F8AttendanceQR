@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "688331928413",
+    "firebase_url": "https://projectfirestoretest1.firebaseio.com",
+    "project_id": "projectfirestoretest1",
+    "storage_bucket": "projectfirestoretest1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688331928413:android:8a61ca76310b7c07",
+        "android_client_info": {
+          "package_name": "ng.com.androidlife.firebasefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688331928413-4oalui0emiqhk8qouhfps3vi21qrvbcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ng.com.androidlife.firebasefirestore",
+            "certificate_hash": "8df863bb0f0b3c2c251266fcac06f30c9e190bfc"
+          }
+        },
+        {
+          "client_id": "688331928413-1d3qi2q90a9qmihj16rk79rlqidgemn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9HYzYph9kIX9ElT2GFhmLID220zt8Ihk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688331928413-1d3qi2q90a9qmihj16rk79rlqidgemn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688331928413:android:6778c57455ed74fd",
+        "android_client_info": {
+          "package_name": "org.enovatelab.f8attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688331928413-169jg61ae927do415a688v1kt4ajav5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.enovatelab.f8attendance",
+            "certificate_hash": "8df863bb0f0b3c2c251266fcac06f30c9e190bfc"
+          }
+        },
+        {
+          "client_id": "688331928413-1d3qi2q90a9qmihj16rk79rlqidgemn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9HYzYph9kIX9ElT2GFhmLID220zt8Ihk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688331928413-1d3qi2q90a9qmihj16rk79rlqidgemn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
