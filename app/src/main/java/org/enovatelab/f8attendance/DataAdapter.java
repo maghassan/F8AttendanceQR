@@ -36,6 +36,10 @@ public class DataAdapter extends RecyclerView.Adapter<DataAdapter.ViewHolder>{
 
         holder.attendeeCode.setText(AttendeesList.get(position).getAttendeeCode());
 
+        holder.attendeeSerial.setText(String.valueOf(position+1));
+
+
+
     }
 
     @Override
@@ -48,12 +52,14 @@ public class DataAdapter extends RecyclerView.Adapter<DataAdapter.ViewHolder>{
         View mView;
 
         public TextView attendeeCode;
+        public TextView attendeeSerial;
 
         public ViewHolder(View itemView) {
             super(itemView);
             mView = itemView;
 
             attendeeCode = mView.findViewById(R.id.AttendeeCode);
+            attendeeSerial = mView.findViewById(R.id.SerialNumber);
         }
     }
 
